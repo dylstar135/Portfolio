@@ -1,11 +1,11 @@
-import project1 from "../assets/project1.jpg";
+import Pro1 from "../assets/Pro1.png";
 import project2 from "../assets/project2.jpg";
 
 const ProjectCardData = [
   {
-    imgsrc: project1,
+    imgsrc: Pro1,
     title: "Portfolio",
-    text: "my very own portfolio",
+    text: "My first built Portfolio",
     view: "http://localhost:3000/",
   },
   {

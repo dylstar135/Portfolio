@@ -48,18 +48,26 @@ const Footer = () => {
             projects and design challenges.
           </p>
           <div className="social">
-            <FaInstagram
-              size={30}
-              style={{ color: "#fff", marginRight: "2rem" }}
-            />
-            <FaLinkedin
-              size={30}
-              style={{ color: "#fff", marginRight: "2rem" }}
-            />
-            <FaGithub
-              size={30}
-              style={{ color: "#fff", marginRight: "2rem" }}
-            />
+            <a href="https://www.instagram.com/dylsta135/">
+              <FaInstagram
+                size={30}
+                style={{ color: "#fff", marginRight: "2rem" }}
+              />
+            </a>
+
+            <a href="https://github.com/dylstar135">
+              {" "}
+              <FaGithub
+                size={30}
+                style={{ color: "#fff", marginRight: "2rem" }}
+              />
+            </a>
+            <a href="https://www.linkedin.com/in/dylan-power-874b0526b/">
+              <FaLinkedin
+                size={30}
+                style={{ color: "#fff", marginRight: "2rem" }}
+              />
+            </a>
           </div>
         </div>
       </div>
