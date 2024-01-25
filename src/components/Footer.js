@@ -48,21 +48,24 @@ const Footer = () => {
             projects and design challenges.
           </p>
           <div className="social">
-            <a href="https://www.instagram.com/dylsta135/">
+            <a href="https://www.instagram.com/dylsta135/" target="__blank">
               <FaInstagram
                 size={30}
                 style={{ color: "#fff", marginRight: "2rem" }}
               />
             </a>
 
-            <a href="https://github.com/dylstar135">
+            <a href="https://github.com/dylstar135" target="__blank">
               {" "}
               <FaGithub
                 size={30}
                 style={{ color: "#fff", marginRight: "2rem" }}
               />
             </a>
-            <a href="https://www.linkedin.com/in/dylan-power-874b0526b/">
+            <a
+              href="https://www.linkedin.com/in/dylan-power-874b0526b/"
+              target="__blank"
+            >
               <FaLinkedin
                 size={30}
                 style={{ color: "#fff", marginRight: "2rem" }}
