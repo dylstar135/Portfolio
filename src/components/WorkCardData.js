@@ -19,7 +19,7 @@ const ProjectCardData = [
     imgsrc: PilgrimPack,
     title: "Pilgrims Packer",
     text: "Gear packing list  built out of my own love for adventure, and my exceptional skill at forgetting things.",
-    view: "https://inspired-quotes.netlify.app/",
+    view: "https://pilgrimspacker.netlify.app/",
   },
 ];
 
