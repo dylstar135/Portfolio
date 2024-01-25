@@ -1,18 +1,18 @@
 import Pro1 from "../assets/Pro1.png";
-import project2 from "../assets/project2.jpg";
+import projectquote from "../assets/project-quote.png";
 
 const ProjectCardData = [
   {
     imgsrc: Pro1,
     title: "Portfolio",
     text: "My first built Portfolio",
-    view: "http://localhost:3000/",
+    view: "https://dylan-power-dev.netlify.app/",
   },
   {
-    imgsrc: project2,
+    imgsrc: projectquote,
     title: "Random Quote Generator",
     text: "Inspire yourself with the click of a button",
-    view: "http://localhost:3000/",
+    view: "https://inspired-quotes.netlify.app/",
   },
 ];
 
