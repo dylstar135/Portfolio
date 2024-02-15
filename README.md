@@ -1,3 +1,5 @@
+![Screenshot](https://github.com/dylstar135/Portfolio/blob/main/Screenshot%20from%202024-02-15%2014-11-53.png)
+
 # Portfolio Project Overview
 
 Welcome to my Portfolio Project, a showcase of my skills and experiences as a software developer and part-time adventurer. This project aims to provide visitors with insights into who I am, my projects, and how to get in touch with me.
